@@ -18,8 +18,8 @@ Fourteen instrumental tracks for Album 112. No vocals. Greater light, lesser lig
 14. Amen
 
 # Published
-GitHub: https://github.com/KJC-DNN/Album112_Instrumentals_Lights_for_Signs/releases/tag/112.0.0
-Archive: album-112-instrumentals-lights-for-signs-cover
-Zenodo: https://doi.org/10.5281/zenodo.24012687
+1. GitHub: https://github.com/KJC-DNN/Album112_Instrumentals_Lights_for_Signs/releases/tag/112.0.0
+2. Archive: album-112-instrumentals-lights-for-signs-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24012687
 
 All Glory to Lord Jesus Christ.
